@@ -28,10 +28,13 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | --------------------:------:--------------------------------------------:-----------:|
 | 04-28-25 |   14:00  |  MTG   |       Met in class and started planning    |       60    |
 | 05-02-25 |   19:00  |   IM   |  Started checking Rust videos              |      120    |
+| 05-02-25 |   14:00  |  MTG   |   Met in class again, decided to do wireframes |     60      |
+| 05-05-25 |   14:00  |  MTG   |   Met in class, planned roles for wframes  |     60      |
+| 05-07-25 |   14:00  |  MTG   |   Met in class again, made wireframes      |     60      |
 | 05-07-25 |   20:30  |   IM   |  Checking more videos and practicing       |      60     |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+| 05-08-25 |   20:00  |   IM   |             Practicing with loops          |     120     |
+| 05-10-25 |   10:00  |   IM   |        Elaborating my project              |     315     |
+| 05-11-25 |   15:00  |   IM   |   Final reports and recording the video    |     60      |
 
 _Note: Add more rows as needed._
 
@@ -39,7 +42,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
+|IM - Individual Module         |            10:15         |
+|TP - Team Project              |            1:00          |
+|MTG - Class Meetings           |            5:00          |
 |**TOTAL**                      |                          |
