@@ -33,13 +33,14 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-* [w3schools Python tutorial] https://www.w3schools.com/python/default.asp
-* [w3schools Github tutorial] https://www.w3schools.com/git/git_remote_getstarted.asp
-* [Git tutorial] https://www.youtube.com/watch?v=yxvqLBHZfXk
+* [Tim Rust tutorial] https://www.youtube.com/watch?v=T_KrYLW4jw8&list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ
+* [Rust tutorial in spanish] https://www.youtube.com/watch?v=WMeM7-JswKQ&t=2455s
+* [Rust book] https://doc.rust-lang.org/book/title-page.html
 
 ## Future Work
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
 * [ ] Make a better planning for my next project.
-* [ ] Look for other developer's opinions on my project.
+* [ ] Try to watch less videos and code more.
+* [ ] Find better sources.
